@@ -1,0 +1,8 @@
+name: Punisher
+version: 1.0
+author: MarcJus
+main: fr.marcjus.punisher.Punisher
+commands:
+  punisher:
+    description: Ouvre un menu pour punir un joueur
+    permission: punisher.punisher
